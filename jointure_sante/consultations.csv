@@ -1,0 +1,72 @@
+consultation_id,patient_id,date_consultation,medecin,motif,cout_fcfa
+2001,1001,2024-11-25,Dr. Amouzou,Consultation prénatale,5000.0
+2002,1030,2024-10-03,Dr. Assih,Douleurs abdominales,
+2003,1002,2024-01-16,Dr. Assih,Contrôle diabète,5000.0
+2004,1009,2024-09-03,Dr. Tchalla,Grippe,5000.0
+2005,1033,2024-08-20,Dr. Tchalla,Paludisme,1000.0
+2006,1038,2024-08-20,Dr. Tchalla,Consultation générale,2500.0
+2007,1029,2024-02-14,Dr. Bakoma,Consultation prénatale,2500.0
+2008,1016,2024-09-04,Dr. Amouzou,Hypertension,1500.0
+2009,1021,2024-04-24,Dr. Tchalla,Paludisme,1500.0
+2010,1012,2024-11-19,Dr. Kolani,Grippe,5000.0
+2011,1027,2024-11-02,Dr. Kolani,Paludisme,2000.0
+2012,1033,2024-05-16,Dr. Tchalla,Hypertension,1000.0
+2013,1017,2024-12-14,Dr. Kolani,Vaccination,1500.0
+2014,1090,2024-05-24,Dr. Kolani,Paludisme,2000.0
+2015,1031,2024-03-01,Dr. Assih,Contrôle diabète,1000.0
+2016,1033,2024-03-18,Dr. Amouzou,Douleurs abdominales,5000.0
+2017,1003,2024-08-14,Dr. Bakoma,Vaccination,1500.0
+2018,1027,2024-10-02,Dr. Bakoma,Paludisme,3000.0
+2019,1009,2024-11-22,Dr. Kolani,Douleurs abdominales,3000.0
+2020,1035,2024-02-25,Dr. Kolani,Douleurs abdominales,1000.0
+2021,1036,2024-04-01,Dr. Assih,Grippe,1500.0
+2022,1028,2024-02-02,Dr. Tchalla,Consultation générale,1000.0
+2023,1022,2024-10-26,Dr. Amouzou,Hypertension,1000.0
+2024,1015,2024-06-11,Dr. Assih,Contrôle diabète,2000.0
+2025,1005,2024-07-04,Dr. Kolani,Hypertension,2000.0
+2026,1035,2024-07-08,Dr. Assih,Consultation prénatale,2000.0
+2027,1030,2024-03-17,Dr. Tchalla,Douleurs abdominales,1000.0
+2028,1037,2024-10-21,Dr. Amouzou,Contrôle diabète,1000.0
+2029,1001,2024-02-22,Dr. Amouzou,Fièvre typhoïde,5000.0
+2030,1001,2024-07-05,Dr. Kolani,Blessure,1000.0
+2031,1026,2024-03-05,Dr. Amouzou,Contrôle diabète,1000.0
+2032,1030,2024-04-05,Dr. Assih,Douleurs abdominales,3000.0
+2033,1021,2024-07-04,Dr. Amouzou,Contrôle diabète,1500.0
+2034,1010,2024-06-05,Dr. Assih,Consultation prénatale,1500.0
+2035,1010,2024-10-19,Dr. Bakoma,Paludisme,2000.0
+2036,1004,2024-08-16,Dr. Bakoma,Paludisme,5000.0
+2037,1032,2024-11-20,Dr. Assih,Consultation prénatale,2000.0
+2038,1033,2024-01-19,Dr. Tchalla,Contrôle diabète,2500.0
+2039,1001,2024-01-08,Dr. Bakoma,Consultation prénatale,1000.0
+2040,1035,2024-07-17,Dr. Bakoma,Fièvre typhoïde,1500.0
+2041,1010,2024-10-02,Dr. Tchalla,Consultation générale,2000.0
+2042,1011,2024-08-04,Dr. Amouzou,Contrôle diabète,
+2043,1036,2024-10-05,Dr. Amouzou,Fièvre typhoïde,3000.0
+2044,1035,2024-04-18,Dr. Amouzou,Blessure,2000.0
+2045,1023,2024-05-12,Dr. Amouzou,Blessure,3000.0
+2046,1025,2024-03-09,Dr. Amouzou,Paludisme,2000.0
+2047,1025,2024-06-13,Dr. Tchalla,Grippe,1500.0
+2048,1012,2024-09-19,Dr. Assih,Consultation générale,1500.0
+2049,1014,2024-04-19,Dr. Bakoma,Contrôle diabète,1000.0
+2050,1012,2024-09-20,Dr. Tchalla,Contrôle diabète,3000.0
+2051,1023,2024-09-07,Dr. Kolani,Contrôle diabète,2000.0
+2052,1039,2024-10-05,Dr. Tchalla,Blessure,2000.0
+2053,1011,2024-02-15,Dr. Assih,Consultation générale,3000.0
+2054,1017,2024-06-07,Dr. Kolani,Fièvre typhoïde,1000.0
+2055,1027,2024-10-02,Dr. Kolani,Contrôle diabète,1500.0
+2056,1008,2024-01-22,Dr. Assih,Paludisme,5000.0
+2057,1025,2024-04-04,Dr. Assih,Grippe,3000.0
+2058,1039,2024-11-10,Dr. Bakoma,Grippe,1000.0
+2059,1003,2024-02-26,Dr. Assih,Fièvre typhoïde,1000.0
+2060,1090,2024-07-01,Dr. Tchalla,Consultation générale,1500.0
+2061,1025,2024-08-01,Dr. Kolani,Vaccination,3000.0
+2062,1032,2024-05-16,Dr. Kolani,Contrôle diabète,1500.0
+2063,1019,2024-04-25,Dr. Bakoma,Consultation générale,1500.0
+2064,1015,2024-01-21,Dr. Tchalla,Blessure,1000.0
+2065,1012,2024-10-16,Dr. Assih,Fièvre typhoïde,2500.0
+2066,1008,2024-10-04,Dr. Bakoma,Fièvre typhoïde,1500.0
+2067,1028,2024-12-05,Dr. Amouzou,Hypertension,
+2068,1017,2024-09-01,Dr. Kolani,Hypertension,2500.0
+2069,1029,2024-03-06,Dr. Bakoma,Grippe,2500.0
+2070,1025,2024-02-10,Dr. Bakoma,Contrôle diabète,1000.0
+2021,1036,2024-04-01,Dr. Assih,Grippe,1500.0
