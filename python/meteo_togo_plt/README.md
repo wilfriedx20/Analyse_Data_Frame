@@ -1,4 +1,4 @@
-# Météo Togo 2024 — Visualisation avec Matplotlib
+# Météo Togo 2024 - Visualisation avec Matplotlib
 
 Exercice de visualisation autour de données météo fictives sur plusieurs villes du Togo, pour pratiquer les graphiques en ligne, en barres et en camembert avec **Matplotlib**.
 
