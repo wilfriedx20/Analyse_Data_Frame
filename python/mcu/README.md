@@ -1,4 +1,4 @@
-# 🦸 MCU Data Analysis — Exploration du Marvel Cinematic Universe
+# 🦸 MCU Data Analysis - Exploration du Marvel Cinematic Universe
 
 Un petit projet perso pour combiner deux de mes passions : la **data analysis** et l'univers **Marvel**. En tant que fan du MCU, j'avais envie d'aller au-delà du visionnage des films et de creuser un peu dans les chiffres : quels films cartonnent vraiment, quelle phase a été la plus rentable, qui est l'acteur le plus présent dans la franchise... bref, tout ce qu'un fan curieux (et un peu data nerd) a envie de savoir.
 
