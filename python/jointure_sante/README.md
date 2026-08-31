@@ -1,4 +1,4 @@
-# Jointure Santé — Patients & Consultations
+# Jointure Santé - Patients & Consultations
 
 Exercice dédié à la maîtrise des **jointures avec `pd.merge()`** (inner, left, right, outer) à travers un cas de données médicales fictives.
 
