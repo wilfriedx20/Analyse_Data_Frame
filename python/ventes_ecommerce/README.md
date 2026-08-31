@@ -1,4 +1,4 @@
-# Ventes E-commerce — Étude complète (A à H)
+# Ventes E-commerce - Étude complète (A à H)
 
 Le projet le plus complet de la série : une étude de bout en bout d'un jeu de données e-commerce, structurée en 8 parties allant de l'exploration à NumPy.
 
