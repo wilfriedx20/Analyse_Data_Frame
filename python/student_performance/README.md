@@ -1,4 +1,4 @@
-# Student Performance — Facteurs de réussite scolaire
+# Student Performance - Facteurs de réussite scolaire
 
 Analyse d'un dataset d'étudiants pour identifier les facteurs liés à la réussite aux examens : temps d'étude, sommeil, job à temps partiel, accès à internet, niveau d'éducation des parents.
 

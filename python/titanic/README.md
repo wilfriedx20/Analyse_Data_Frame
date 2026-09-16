@@ -1,4 +1,4 @@
-# Titanic — Analyse exploratoire
+# Titanic - Analyse exploratoire
 
 Analyse classique du dataset Titanic (à partir d'un fichier Excel) pour explorer les facteurs liés à la survie des passagers.
 

@@ -1,4 +1,4 @@
-# Ventes Boutique — Nettoyage, agrégation et visualisation
+# Ventes Boutique - Nettoyage, agrégation et visualisation
 
 Exercice complet sur un jeu de données de ventes en boutique : exploration, nettoyage de valeurs manquantes/aberrantes, agrégations et visualisations avec Matplotlib.
 

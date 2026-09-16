@@ -1,4 +1,4 @@
-# Iris — Découverte de Seaborn
+# Iris - Découverte de Seaborn
 
 Petit exercice de prise en main de **Seaborn** à partir du célèbre dataset Iris, pour s'entraîner à visualiser des relations entre variables numériques et une variable catégorielle.
 

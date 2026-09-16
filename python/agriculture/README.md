@@ -1,4 +1,4 @@
-# Synthèse — Agriculture au Togo (Producteurs, Récoltes, Ventes)
+# Synthèse - Agriculture au Togo (Producteurs, Récoltes, Ventes)
 
 Exercice de synthèse combinant l'ensemble des notions vues jusqu'ici (exploration, nettoyage, `groupby`/`agg`, `pivot_table`, `apply`/`lambda`, dates, chaînes, NumPy) avec l'utilisation de **`pd.merge()`** sur **3 tables liées**.
 
