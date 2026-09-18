@@ -4,8 +4,8 @@ Dépôt d'entraînement à l'analyse de données, réalisé dans le cadre de mon
 
 ## 📁 Structure du dépôt
 
-- **`python/`** — Exercices et mini-projets d'analyse de données avec Python (Pandas, NumPy, Matplotlib, Seaborn) : exploration, nettoyage, jointures, agrégations, visualisation.
-- **`sql/`** — *(à venir)* Exercices d'analyse de données en SQL.
+- **`python/`** - Exercices et mini-projets d'analyse de données avec Python (Pandas, NumPy, Matplotlib, Seaborn) : exploration, nettoyage, jointures, agrégations, visualisation.
+- **`sql/`** - *(à venir)* Exercices d'analyse de données en SQL.
 
 Chaque sous-dossier de `python/` contient son propre README détaillant le contexte, les données utilisées et les compétences mobilisées.
 
