@@ -1,6 +1,6 @@
 # ⚡ Analyse de la consommation et production d'énergie au Togo
 
-Exercice d'analyse de données avec **pandas** et **NumPy** — Niveau intermédiaire.
+Exercice d'analyse de données avec **pandas**
 
 ## 📋 Contexte
 
