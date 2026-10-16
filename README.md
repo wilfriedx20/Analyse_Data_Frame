@@ -1,20 +1,41 @@
 # Analyse_Data_Frame
 
-Dépôt d'entraînement à l'analyse de données, réalisé dans le cadre de mon apprentissage de la data science.
+Analyses de données réalisées avec Python : nettoyage, transformation, jointures, synthèses et visualisation.
 
-## 📁 Structure du dépôt
+---
 
-- **`python/`** - Exercices et mini-projets d'analyse de données avec Python (Pandas, NumPy, Matplotlib, Seaborn) : exploration, nettoyage, jointures, agrégations, visualisation.
-- **`sql/`** - *(à venir)* Exercices d'analyse de données en SQL.
+## Compétences mises en avant
 
-Chaque sous-dossier de `python/` contient son propre README détaillant le contexte, les données utilisées et les compétences mobilisées.
+- Exploration et nettoyage de données (valeurs manquantes, doublons, types)
+- Agrégation et tableaux croisés (`groupby`, `agg`, `pivot_table`)
+- Transformations avec `apply`, dates (`.dt`) et chaînes de caractères (`.str`)
+- Statistiques avec NumPy
+- Jointures multi-tables (`merge`)
+- Analyses de synthèse
+- Visualisation des résultats avec matplotlib et seaborn
 
-## 🚧 Statut
+---
 
-Le dépôt ne contient pour l'instant que la partie **Python**. Un dossier **SQL** sera ajouté prochainement pour couvrir les mêmes types d'analyses avec des requêtes SQL.
+## Structure du repo
 
-## 🛠️ Outils utilisés
+Un dossier par analyse :
 
-- Python (Pandas, NumPy, Matplotlib, Seaborn)
-- Jupyter Notebook
-- SQL *(à venir)*
+```
+Analyse_Data_Frame/
+├── nom-de-l-analyse/
+│   ├── données
+│   ├── notebook.ipynb
+│   └── README.md   (optionnel)
+└── ...
+```
+
+---
+
+## Outils
+
+- Python
+- pandas
+- NumPy
+- matplotlib
+- seaborn
+- ...
